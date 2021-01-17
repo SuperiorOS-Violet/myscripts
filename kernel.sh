@@ -56,7 +56,7 @@ DEFCONFIG=vendor/violet-perf_defconfig
 
 # Specify compiler. 
 # 'clang' or 'gcc'
-COMPILER=clang
+COMPILER=gcc
 
 # Specify linker.
 # 'ld.lld'(default)
